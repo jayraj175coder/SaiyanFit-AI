@@ -6,7 +6,7 @@ Introducing Saiyanfit AI - your very own AI powered personal fitness trainer and
 Saiyanfit AI is an innovative app that uses **OPEN-AI** playground davinci-3 to create personalized fitness and diet plans tailored specifically to your health goals and lifestyle with supersaiyan Goku as your trainer and a special fitness advice for you.
 
 
-**Video Walkthrough** - [Video Link](https://www.youtube.com/watch?v=X5ZxLjDtIaw)
+**Video Walkthrough** - [Video Link]([https://youtu.be/xKsotd106OU])
 
 ## Tech Stack used:
 Reac.js, Next.js, HTML5, CSS3, JavaScript, OPEN AI API
